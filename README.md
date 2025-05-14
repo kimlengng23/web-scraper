@@ -1,7 +1,7 @@
 Required Tools:
 
-1. Python 3
-2. MongoDB Commmunity Server
+1. Python 3.X
+2. MongoDB Commmunity Server 7.X or above
 
 Required Packages
 
